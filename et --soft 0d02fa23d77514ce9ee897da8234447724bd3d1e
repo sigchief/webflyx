@@ -1,0 +1,60 @@
+[33mcommit 5a83c1cf74a4859592c6b7329febd366989dddb7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mupdate_dune[m[33m)[m
+Author: comeaux <jacobcomeaux@gmail.com>
+Date:   Fri Nov 6 18:19:25 2026 -0500
+
+    J: Add The Internship
+
+[33mcommit 0d02fa23d77514ce9ee897da8234447724bd3d1e[m
+Author: comeaux <jacobcomeaux@gmail.com>
+Date:   Fri Nov 6 18:13:56 2026 -0500
+
+    I: Add fear quote
+
+[33mcommit 9041af3256e805f736e595bd1698979d122a35ff[m
+Author: comeaux <jacobcomeaux@gmail.com>
+Date:   Fri Nov 6 18:13:21 2026 -0500
+
+    H: Add spice quote
+
+[33mcommit 0754d313b1739fcf57a32920d515697d6dc49f52[m[33m ([m[1;32mmain[m[33m)[m
+Author: comeaux <jacobcomeaux@gmail.com>
+Date:   Fri Nov 6 18:00:15 2026 -0500
+
+    G: Add Benjamin Button
+
+[33mcommit 11a26c1374b83cf83399495af7145fe5ac40920d[m
+Merge: fc4557d e76be4b
+Author: comeaux <jacobcomeaux@gmail.com>
+Date:   Fri Nov 6 17:50:42 2026 -0500
+
+    F: Merge branch 'add_classics'
+
+[33mcommit fc4557d5783e009694cf446d1e825464bcf11ef6[m
+Author: comeaux <jacobcomeaux@gmail.com>
+Date:   Fri Nov 6 17:46:10 2026 -0500
+
+    E: Update contents
+
+[33mcommit e76be4b6412aa296850748bd018cea492f5b678b[m
+Author: comeaux <jacobcomeaux@gmail.com>
+Date:   Fri Oct 30 09:30:06 2026 -0400
+
+    D: add classics
+
+[33mcommit 665523a97d8ad4d657a07642dd194f45f3668755[m
+Author: comeaux <jacobcomeaux@gmail.com>
+Date:   Fri Oct 30 08:59:19 2026 -0400
+
+    C: add quotes
+
+[33mcommit 7a6abcd80e0099d736945b408ea67f62942e9210[m
+Author: comeaux <jacobcomeaux@gmail.com>
+Date:   Fri Oct 30 08:46:36 2026 -0400
+
+    B: add titles
+
+[33mcommit 45fbdc6c473cb88ed88447a8e0691355480757f2[m
+Author: comeaux <jacobcomeaux@gmail.com>
+Date:   Fri Oct 23 09:46:57 2026 -0400
+
+    A: add contents.md
